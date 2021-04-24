@@ -1,0 +1,7 @@
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/domain/HeartRateDataAggregate.java
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/domain/HeartRateRaw.java
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/exception/KoneskaException.java
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/main/Main.java
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/aggregator/HeartRateDataAggregatorImpl.java
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/io/HeartRateDataParser.java
+/Users/ctsuser1/Downloads/koneska2/src/main/java/com/koneska/interview/aggregator/HeartRateDataAggregator.java

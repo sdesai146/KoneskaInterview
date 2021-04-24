@@ -1,0 +1,10 @@
+com/koneska/interview/aggregator/HeartRateDataAggregatorImpl.class
+com/koneska/interview/domain/HeartRateDataAggregate.class
+com/koneska/interview/main/Main.class
+com/koneska/interview/exception/KoneskaException.class
+com/koneska/interview/exception/KoneskaException$SerializerException.class
+com/koneska/interview/exception/KoneskaException$DeserializerException.class
+com/koneska/interview/io/HeartRateDataParser.class
+com/koneska/interview/domain/HeartRateDataAggregate$Bpm.class
+com/koneska/interview/domain/HeartRateRaw.class
+com/koneska/interview/aggregator/HeartRateDataAggregator.class
